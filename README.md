@@ -39,5 +39,5 @@ Before you begin, ensure you have the following installed on your machine:
    npm run dev
 
 # Thank You
-Thank you for visiting the Personal Bookshelf project! May your code be bug-free and your bookshelves always overflowing. Happy coding and happy reading! 📚💻😄
+Thank you for visiting the Personal Bookshelf project! May your code be bug-free and your bookshelves always overflowing. Happy coding and happy reading!
 
