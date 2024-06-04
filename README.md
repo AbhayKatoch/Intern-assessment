@@ -1,12 +1,43 @@
-<<<<<<< HEAD
-# React + Vite
+# Personal Bookshelf
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the Personal Bookshelf project! If you love books as much as you love programming, this is the perfect application to keep track of your favorite reads. Let's dive into how you can set up and run this React application on your local machine.
 
-Currently, two official plugins are available:
+## Project Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
-# Intern-assessment
->>>>>>> d4b9b94d20045d4e42fe1eeb29de7dc0e54b8760
+The Personal Bookshelf is a React application that allows users to search for books using the Open Library API and maintain a personal bookshelf. Books added to the bookshelf are stored persistently using the `localStorage` API.
+
+## Prerequisites
+
+Before you begin, ensure you have the following installed on your machine:
+- Node.js (version 14 or later)
+- npm (Node package manager, which comes with Node.js)
+
+## Setup Instructions
+
+1. **Clone the Repository:**
+
+   Open your terminal and clone the repository using the following command:
+   ```sh
+   git clone https://github.com/AbhayKatoch/Personal-Bookshelf.git
+   
+2. **Navigate to the Project Directory:**
+
+   Change into the project directory:
+   ```sh
+   cd Personal-Bookshelf
+   
+3. **Install Dependencies:**
+
+   Install the required dependencies using npm:
+   ```sh
+   npm install
+
+4. **Running the Application:**
+
+   Run the application on your local machine:
+   ```sh
+   npm run dev
+
+# Thank You
+Thank you for visiting the Personal Bookshelf project! May your code be bug-free and your bookshelves always overflowing. Happy coding and happy reading! 📚💻😄
+
